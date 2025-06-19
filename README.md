@@ -47,19 +47,31 @@ npm run dev
 
 ✅ Clean and modern UI with animated transitions
 
+## 🚀 Live Preview
+
+Take a quick look at how it looks below 👇
+
+![Home section](./src/assets/home.png)
+
+![Home section](./src/assets/about.png)
+
+![Home section](./src/assets/experience.png)
+
+![Home section](./src/assets/contact1.png)
+
 🔗 Live Demo
+
 https://amanverma1portfolio.netlify.app/
 
 
 📬 Contact
+
 👨‍💻 Name: Aman Verma
 
-📧 Email: amanv2225@example.com
+📧 Email: amanv2225@gmail.com
 
-🔗 LinkedIn: Aman Verma
+🔗 LinkedIn: [Aman Verma](https://www.linkedin.com/in/amanverma420/)
 
-💻 GitHub: @amanverma420
+💻 GitHub: [Aman verma](https://github.com/amanverma420)
 
-📄 License
-This project is open-source and available under the MIT License.
 
