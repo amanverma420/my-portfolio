@@ -34,6 +34,7 @@ npm run dev
 ```
 
 ✨ Features
+
 ✅ Smooth scroll animations using GSAP
 
 ✅ Fully responsive design for all screen sizes
