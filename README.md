@@ -1,40 +1,64 @@
 # 🌐 Animated Portfolio Website
 
-This is a personal animated portfolio website built using **React** and **Vite**, with smooth scroll-based animations powered by **GSAP**. The site is fully responsive and features sections like Home, About, Projects, and Contact.
+This is a personal **animated portfolio website** built using **React** and **Vite**, with scroll-based animations powered by **GSAP**.  
+It is fully responsive, mobile-friendly, and features the following sections:
+**Home**, **About**, **Projects**, and **Contact**.
+
+---
 
 ## 🚀 Tech Stack
 
-- [React](https://reactjs.org/) – Frontend library
-- [Vite](https://vitejs.dev/) – Fast bundler and dev server
-- [GSAP](https://gsap.com/) – Powerful animation library
-- [React Scroll](https://www.npmjs.com/package/react-scroll) – Smooth scrolling
-- HTML5 + CSS3 – Responsive layout and styling
+- ⚛️ [React](https://reactjs.org/) – Frontend JavaScript library  
+- ⚡ [Vite](https://vitejs.dev/) – Fast dev server and bundler  
+- 🎞️ [GSAP](https://gsap.com/) – High-performance animations  
+- 🎯 [React Scroll](https://www.npmjs.com/package/react-scroll) – Smooth section navigation  
+- 🎨 HTML5 + CSS3 – Responsive and clean design  
 
-📦 Getting Started
-1. Clone the repository
-git clone https://github.com/yourusername/my-portfolio.git
+---
+
+## 📦 Getting Started
+
+Follow the steps below to run this project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/amanverma420/my-portfolio.git
 cd my-portfolio
-2. Install dependencies
+
+# 2. Install dependencies
 npm install
-3. Start development server
+
+# 3. Start the development server
 npm run dev
 
-
 ✨ Features
-1.Smooth scroll animations with GSAP
-2.Responsive layout for all screen sizes
-3.Mobile-friendly hamburger menu
-4.Typing animation for job titles
-5.Contact form integration with Formspree
+✅ Smooth scroll animations using GSAP
+
+✅ Fully responsive design for all screen sizes
+
+✅ Mobile-friendly hamburger menu
+
+✅ Typing effect for titles using React Typing Effect
+
+✅ Contact form with Formspree integration
+
+✅ Clean and modern UI with animated transitions
+
+
+
+🔗 Live Demo
+https://amanverma1portfolio.netlify.app/
+
 
 📬 Contact
-Name: Aman Verma
+👨‍💻 Name: Aman Verma
 
-Email: amanv2225@example.com
+📧 Email: amanv2225@example.com
 
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/amanverma420/)
+🔗 LinkedIn: Aman Verma
 
-GitHub: [@yourusername](https://github.com/amanverma420)
+💻 GitHub: @amanverma420
 
 📄 License
-This project is open source and available under the MIT License.
+This project is open-source and available under the MIT License.
+
