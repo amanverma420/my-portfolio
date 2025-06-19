@@ -31,6 +31,8 @@ npm install
 # 3. Start the development server
 npm run dev
 
+```
+
 ✨ Features
 ✅ Smooth scroll animations using GSAP
 
@@ -44,8 +46,6 @@ npm run dev
 
 ✅ Clean and modern UI with animated transitions
 
-
-```
 🔗 Live Demo
 https://amanverma1portfolio.netlify.app/
 
